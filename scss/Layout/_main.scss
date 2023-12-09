@@ -1,0 +1,22 @@
+$w-container: calc(100vw - 30rem);
+
+.l-container {
+  width: $w-container;
+  margin: 0 auto;
+}
+
+.l-section--text {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+section {
+  margin-bottom: 10rem;
+}
+
+.l-section--bg {
+  background-color: #f0f0f0;
+  width: 100vw;
+  padding-top: 8rem;
+  padding-bottom: 10rem;
+}

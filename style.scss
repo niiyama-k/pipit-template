@@ -1,0 +1,14 @@
+//Foundation
+@use "scss/Foundation/_base";
+@use "scss/Foundation/_reset";
+
+//Layout
+@use "scss/Layout/_header";
+@use "scss/Layout/_main";
+@use "scss/Layout/_footer";
+
+//Object
+@use "scss/Object/Component/_btn";
+@use "scss/Object/Project/_top";
+@use "scss/Object/Utility/_color";
+@use "scss/Object/Utility/_font";
