@@ -2,6 +2,7 @@
   width: 35rem;
   height: 8rem;
   background-color: white;
+  border: 1px solid #f0f0f0;
   border-radius: 5px;
 
   &--link {
@@ -10,4 +11,15 @@
     font-size: 2rem;
     font-weight: bold;
   }
+}
+
+.c-down-tri {
+  display: block;
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-top: 20px solid black;
+  margin: 0 auto;
+  margin-bottom: 3rem;
 }
